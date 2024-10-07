@@ -1,3 +1,3 @@
-# Cyber geeks
+# Cyber Geeks
 
 Official Site
