@@ -1,5 +1,5 @@
 # CYBER-GEEKS
-🚀 We're a dynamic team focused on IoT and robotics 🤖, building smart, connected systems for the future 🌟. Our projects range from automation to intelligent devices 🔧, always pushing the limits of technology. Join us as we innovate and create cutting-edge solutions that transform industries! ⚙️💡
+🚀 We're a dynamic team focused on IoT and robotics 🤖, building smart, connected systems for the future 🌟 Our projects range from automation to intelligent devices 🔧, always pushing the limits of technology. Join us as we innovate and create cutting-edge solutions that transform industries! ⚙️💡
 <hr>
 Here’s a detailed description you can use for your **GitHub repository** for the **CYBER GEEKS** project:
 
